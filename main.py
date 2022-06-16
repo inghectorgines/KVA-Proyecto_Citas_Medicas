@@ -1,3 +1,5 @@
+## Descargo y procedo a revisar y calificar.
+
 from medicos import acciones
 
 print("""
